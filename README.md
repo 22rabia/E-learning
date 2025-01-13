@@ -1,3 +1,3 @@
 E-Learning website
-Developed by Muneeb Abbasi
+Developed by Rabia Kabir
 
